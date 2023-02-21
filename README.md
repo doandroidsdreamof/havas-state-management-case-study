@@ -14,7 +14,6 @@
   - [Prerequisites](#bangbang-prerequisites)
   - [Installation](#gear-installation)
   - [Run Locally](#running-run-locally)
-  - [Deployment](#triangular_flag_on_post-deployment)
 - [Usage](#eyes-usage)
 - [Contact](#handshake-contact)
 
@@ -91,27 +90,7 @@ Start the server
   npm run dev
 ```
 
-Unit testing
 
-```bash
-  npm run test:units
-```
-
-E2E testing
-
-```bash
-  npm run cypress:open
-```
-
-<!-- Deployment -->
-
-### :triangular_flag_on_post: Deployment
-
-To deploy this project run
-
-```bash
-  npm deploy
-```
 
 <!-- Usage -->
 
