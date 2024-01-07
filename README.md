@@ -114,11 +114,6 @@ https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments
 ```
 
 
-<!-- Contact -->
-
-## :handshake: Contact
-
-mutlukuytuoglu@gmail.com
 
 <!-- Acknowledgments -->
 
